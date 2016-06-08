@@ -15,7 +15,8 @@
 
 http://upload-images.jianshu.io/upload_images/1804917-84c7db5bd62badfe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 
-二、github上现在我们做过什么
+二、github上我们之前做过什么
+
 在github上我们做过的操作：
 
 1、add sshkey
@@ -25,7 +26,6 @@ http://upload-images.jianshu.io/upload_images/1804917-84c7db5bd62badfe.png?image
 github上的repository，我认为是一个最终的版本库，因为我们最终都是要推送到repository中的，其它的操作基本上都是在本机上。
 
 三、举例说明工作区、暂存区、版本库与github上的repository的关系
-
 
 http://upload-images.jianshu.io/upload_images/1804917-535d1a9ecc5526b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 
@@ -40,3 +40,9 @@ http://upload-images.jianshu.io/upload_images/1804917-535d1a9ecc5526b9.png?image
 Github中的repository—— 学习委员交给老师了
 
 以上就是我对这四者之间的关系的理解。
+
+四、github中本机、自己的仓库和他人的仓库之间的关系
+
+http://upload-images.jianshu.io/upload_images/1804917-12e38f7504b77758.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+
+上图很清晰的给我们介绍了github与本机的一些常用到的操作。fork我们在这次作业的提交中也学习到了。
