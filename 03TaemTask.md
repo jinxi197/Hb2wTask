@@ -41,8 +41,14 @@ Github中的repository—— 学习委员交给老师了
 
 以上就是我对这四者之间的关系的理解。
 
-四、github中本机、自己的仓库和他人的仓库之间的关系
+四、通过github的操作说明工作区、暂存区和版本库
 
 http://upload-images.jianshu.io/upload_images/1804917-12e38f7504b77758.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 
-上图很清晰的给我们介绍了github与本机的一些常用到的操作。fork我们在这次作业的提交中也学习到了。
+上图很清晰的给我们介绍了github与本机的一些常用到的操作。fork我们在这次作业的提交中也学习到了。在这次提交作业过程中，我们有一个前提和三个步骤，如下：
+
+前提：组员fork组长的 Github 中 “ Hb2wTask ” 项目，fork之后，我们自己的github仓库中就会出现“ Hb2wTask ” 项目。
+步骤一：在自己的 Github 中打开 “ Hb2wTask ” 项目，点开你的小组对应的文档后，点击 ✎ ,即可在远程库编辑文件了 —— 小组对应的文档 可以看做是本机的工作区
+步骤二：编辑完成后，在网页底部添加本次修改备注及描述（描述可以不填），点击 Commit chenga ,完成提交 —— 点击 Commit chenga 相当于我们在本机中使用命令 add ，然后就到缓存区了。我们的项目主页，在 Code 中就可以看到我们修改过的文档了，没有pull requests的文档都可以看到
+步骤三：推送 Pull requests，那么我们修改之后的项目就可以被推送到组长的项目中了 —— 本机中的push
+以上就是我对工作区、暂存区和版本库通过github上的操作的理解。
